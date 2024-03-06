@@ -1,2 +1,2 @@
 Currently Completing:
-  Firt Update: Mar 5
+  First Update: Mar 5
