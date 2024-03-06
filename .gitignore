@@ -1,0 +1,3 @@
+mysqldata
+.env
+!.env.example
